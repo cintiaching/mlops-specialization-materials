@@ -1,4 +1,4 @@
-## Week 1 Optional References
+## Optional References
 
 ### Week 1: Overview of the ML Lifecycle and Deployment
 
@@ -15,3 +15,17 @@
 http://arxiv.org/abs/2011.09926
   - Sculley, D., Holt, G., Golovin, D., Davydov, E., & Phillips, T. (n.d.). Hidden technical debt in machine learning systems. Retrieved April 28, 2021, from Nips.c https://papers.nips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
 - Ungraded lab: https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public/tree/main/course1/week1-ungraded-lab
+
+### Week 2: Select and Train Model
+
+- [Establishing a baseline](https://blog.ml.cmu.edu/2020/08/31/3-baselines/)
+
+- [Error analysis](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/responsible-machine-learning-with-error-analysis/ba-p/2141774)
+
+- [Experiment tracking](https://neptune.ai/blog/ml-experiment-tracking)
+
+- Papers 
+  - Brundage, M., Avin, S., Wang, J., Belfield, H., Krueger, G., Hadfield, G., … Anderljung, M. (n.d.). Toward trustworthy AI development: Mechanisms for supporting verifiable claims∗. Retrieved May 7, 2021
+  http://arxiv.org/abs/2004.07213v2
+  - Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. Retrieved from 
+http://arxiv.org/abs/1912.02292
