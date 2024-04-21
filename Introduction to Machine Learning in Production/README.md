@@ -29,3 +29,19 @@ http://arxiv.org/abs/2011.09926
   http://arxiv.org/abs/2004.07213v2
   - Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. Retrieved from 
 http://arxiv.org/abs/1912.02292
+  - Ungraded lab: https://colab.research.google.com/github/https-deeplearning-ai/MLEP-public/blob/main/course1/week2-ungraded-lab/C1W2_Ungraded_Lab_Birds_Cats_Dogs.ipynb
+
+### Week 3: Data Definition and Baseline
+
+- [Label ambiguity](https://csgaobb.github.io/Projects/DLDL.html)
+
+- [Comparing deep neural networks against humans:
+object recognition when the signal gets weaker](https://arxiv.org/pdf/1706.06969.pdf)
+
+- [Data pipelines](https://cs230.stanford.edu/blog/datapipeline/)
+
+- [Data lineage](https://blog.tensorflow.org/2021/01/ml-metadata-version-control-for-ml.html)
+
+- [MLops](https://cloud.google.com/blog/products/ai-machine-learning/key-requirements-for-an-mlops-foundation)
+
+- Geirhos, R., Janssen, D. H. J., Schutt, H. H., Rauber, J., Bethge, M., & Wichmann, F. A. (n.d.). Comparing deep neural networks against humans: object recognition when the signal gets weaker∗. Retrieved May 7, 2021, from Arxiv.org website:
